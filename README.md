@@ -52,9 +52,9 @@ Making this card prototype i`ve achieved:
 
 1) a better usage of the @media query property of CSS 
 
-   ```CSS
-  ```@media only screen and (max-width: 550px)
-  ```
+```CSS
+```@media only screen and (max-width: 550px)
+```
 
 2) a better usage of the flexbox, margin property for center and place elements inside a div element
 
